@@ -22,4 +22,4 @@ Rock + Rock --> Normal Spear
 
 #!New Crafts work only with Gourmand!
 
-This mod doesn't work with other mods which changing crafting system, like <<Artificer's Cookbook>>
+This mod doesn't work with other mods which changing crafting system.
