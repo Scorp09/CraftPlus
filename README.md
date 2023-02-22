@@ -20,6 +20,12 @@ Rock + Rock --> Normal Spear
 
 -Any spear + Cherrybomb --> Explosive Spear
 
-#!New Crafts work only with Gourmand!
+-----------------------------------------------------------------------
+
+-Any spear + Karma flower --> Flaming Spear
+
+-Any spear + Fire Egg --> Flaming Spear
+
+#New Crafts works in Expedition with Item Crafting Perk.
 
 This mod doesn't work with other mods which changing crafting system.
