@@ -8,23 +8,29 @@ Rock + Rock --> Normal Spear
 
 -----------------------------------------------------------------------
 
--Any spear + JellyFish --> Electric Spear
+-(Normal spear or Electric Spear) + JellyFish --> Electric Spear
 
--Any spear + Neuron --> Electric Spear
+-(Normal spear or Electric Spear) + Neuron --> Electric Spear
 
--Any spear + Overseer Carcass --> Electric Spear
-
------------------------------------------------------------------------
-
--Any spear + Scavenger Bomb --> Explosive Spear
-
--Any spear + Cherrybomb --> Explosive Spear
+-(Normal spear or Electric Spear) + Overseer Carcass --> Electric Spear
 
 -----------------------------------------------------------------------
 
--Any spear + Karma flower --> Flaming Spear
+-Normal spear + Scavenger Bomb --> Explosive Spear
 
--Any spear + Fire Egg --> Flaming Spear
+-Normal spear + Cherrybomb --> Explosive Spear
+
+-----------------------------------------------------------------------
+
+-Normal spear + Fire Egg --> Flaming Spear
+
+-----------------------------------------------------------------------
+
+2 NEW ITEMS
+
+-(Electric spear or Plasma Spear) + Fire Egg --> Plasma Spear
+
+-Lantern + Overseer Carcass --> FlashLight
 
 #New Crafts works in Expedition with Item Crafting Perk.
 
