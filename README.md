@@ -34,4 +34,6 @@ Rock + Rock --> Normal Spear
 
 #New Crafts works in Expedition with Item Crafting Perk.
 
+#Need Fisobs
+
 This mod doesn't work with other mods which changing crafting system.
