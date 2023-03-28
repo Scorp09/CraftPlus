@@ -1,3 +1,5 @@
+«Copyright belongs to Scorp09. The product can be published on Steam exclusively through an account with the name artem-o07».
+
 # CraftPlus
 
 This mod adds new Crafts for Gourmand. You can see all recipes in configs.
